@@ -1,0 +1,6 @@
+Once_Upon_A_Time New_Author 1234323456787 25.00 M F
+Midnight_Moon Margaret_Brown 3456789765432 50.00 R N
+A_Wrinkle_In_Time Madeline_Engle 2535483215987 60.00 D F
+Harry_Potter J_K_Rowling 0002569854712 100.00 D N
+Charlottes_Web E_B_White 036250125478 25.00 R N
+The_Snowy_Day Ezra_Keats 00025523148 50.00 M N

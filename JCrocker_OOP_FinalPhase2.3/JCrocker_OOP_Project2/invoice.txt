@@ -1,0 +1,52 @@
+________________________________________________________________________
+			    Customer Invoice
+________________________________________________________________________
+Customer Info: 
+
+	Donna Ford ID#: 1234
+	123_Sesame_street
+	New_York, NY 08330
+
+________________________________________________________________________
+Margaret_Brown    Midnight_Moon       Romance   Non-Fiction  $50.00
+
+	Order Quantity: 3 @ $50.00		Total: $150.00
+
+Total Book Sales:            150.00
+Tax:                          10.50
+Subtotal:                    160.50
+Extra Fee:                     0.00
+Total Book Sales:            160.50
+
+
+________________________________________________________________________
+Margaret_Brown    Midnight_Moon       Romance   Non-Fiction  $50.00
+
+	Order Quantity: 4 @ $50.00		Total: $200.00
+
+Total Book Sales:            200.00
+Tax:                          14.00
+Subtotal:                    214.00
+Extra Fee:                     0.00
+Total Book Sales:            214.00
+
+
+________________________________________________________________________
+E_B_White         Charlottes_Web      Romance   Non-Fiction  $25.00
+
+	Order Quantity: 3 @ $25.00		Total: $75.00
+
+Total Book Sales:             75.00
+Tax:                           5.25
+Subtotal:                     80.25
+Extra Fee:                     0.00
+Total Book Sales:             80.25
+
+
+____________________________________________
+*****GRAND TOTAL:	$454.75
+
+
+________________________________________________________________________
+			    Thank You!
+________________________________________________________________________

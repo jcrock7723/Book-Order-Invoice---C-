@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  MyDataStore.cpp
+  Generating Code...
+c:\users\j one\source\repos\jcrocker_oop_project2\jcrocker_oop_project2\mydatastore.cpp(75): warning C4715: 'MyDataStore::getCustomer': not all control paths return a value
+  JCrocker_OOP_Project2.vcxproj -> C:\Users\J One\source\repos\JCrocker_OOP_Project2\Debug\JCrocker_OOP_Project2.exe
+  JCrocker_OOP_Project2.vcxproj -> C:\Users\J One\source\repos\JCrocker_OOP_Project2\Debug\JCrocker_OOP_Project2.pdb (Partial PDB)
